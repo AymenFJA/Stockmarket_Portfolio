@@ -120,6 +120,11 @@ This function will initiate the first default amount of Money for BankAccount wh
 4.	“List box” will show all the results that the user will make.
 5.	“Message Box” will show if the user make mistake or complete the operation.
 
+# Snapshots:
+![](pics/P1.jpg)
+<br>
+<br>
+
 ### License
 
     Copyright 2016 Aymen Alsaadi
