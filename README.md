@@ -1,4 +1,6 @@
-# Stockmarket_Portfolio
+## Stockmarket_Portfolio
+[![Build Status](https://travis-ci.org/AymenFJA/Stockmarket_Portfolio.svg?branch=master)](https://travis-ci.org/AymenFJA/Stockmarket_Portfolio)
+
 Account Management System for Finance Programming
 
 # classes
