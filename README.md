@@ -1,5 +1,6 @@
 ## Stockmarket_Portfolio
-[![Build Status](https://travis-ci.org/AymenFJA/Stockmarket_Portfolio.svg?branch=master)](https://travis-ci.org/AymenFJA/Stockmarket_Portfolio)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/AymenFJA/Stockmarket_Portfolio.svg?branch=master)](https://travis-ci.org/AymenFJA/Stockmarket_Portfolio)
 
 Account Management System for Finance Programming
 
