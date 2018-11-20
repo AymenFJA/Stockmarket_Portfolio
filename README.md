@@ -121,10 +121,41 @@ This function will initiate the first default amount of Money for BankAccount wh
 5.	“Message Box” will show if the user make mistake or complete the operation.
 
 # Snapshots:
-![](pics/P1.jpg)
+
+### Main GUI
+![](pics/P1.JPG)
 <br>
 <br>
 
+### Display Price for Specific Stock
+![](pics/P2.JPG)
+<br>
+<br>
+
+### Display The Current Portfolio that the user owns
+![](pics/P3.JPG)
+<br>
+<br>
+
+### Telling the user that he bought the share.
+![](pics/P5.JPG)
+<br>
+<br>
+
+### As shown in the end of the list that the user bought 5 shares of CSCO.
+![](pics/P6.JPG)
+<br>
+<br>
+
+### After Buying the CSCO the picture show that the CSCO shares is 6 shares.
+![](pics/P7.JPG)
+<br>
+<br>
+
+### Telling the user that he sold the share.
+![](pics/P8.JPG)
+<br>
+<br>
 ### License
 
     Copyright 2016 Aymen Alsaadi
