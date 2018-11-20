@@ -5,7 +5,7 @@
 
 ## Account Management System for Finance Programming
 
-This is a program to manage a bank account and a stock portfolio. The program will be written using inheritance structure for the classes. Starting with the abstract base class Account. All of the accounts are linked together through the common cashBalance variable. The starting balance for the account will be $10000. The balance will change as you perform the transactions.
+This program is to manage a bank account and a stock portfolio. The program is written using inheritance structure for the classes. Starting with the abstract base class Account. All of the accounts are linked together through the common cashBalance variable. The starting balance for the account will be **$10000**. The balance will change as you perform the transactions.
 In the main menu, you can select to work with either stock account, bank account, or exit the program. The sub menu for each will be as following:
 
 Stock account:
